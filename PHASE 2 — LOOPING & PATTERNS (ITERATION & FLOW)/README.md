@@ -8,7 +8,7 @@ This phase introduces the concept of iteration using loops and explores various 
 ## 📅 Timeline & Milestones
 | Level | Description | Target Completion |
 |-------|-------------|------------------|
-| 1 | Basic Looping (Introductory) | Mar 7, 2026 |
+| 1 | Basic Looping (Introductory) | Feb 6, 2026 |
 | 2 | Number-based Looping Logic | Mar 12, 2026 |
 | 3 | Mathematical & Logical Patterns | Mar 17, 2026 |
 | 4 | Pattern Printing (Stars & Numbers) | Mar 22, 2026 |
@@ -18,16 +18,16 @@ This phase introduces the concept of iteration using loops and explores various 
 
 ## ✅ Progress Tracker
 ### Level 1: Basic Looping (Introductory)
-- [ ] even1To100.py
-- [ ] factorial.py
-- [ ] multiplicationTable.py
-- [ ] odd1To100.py
-- [ ] print10To1.py
-- [ ] print1To10.py
-- [ ] productOfDigits.py
-- [ ] sumEvenUpToN.py
-- [ ] sumNaturalNumbers.py
-- [ ] sumOddUpToN.py
+- [✔️] even1To100.py
+- [✔️] factorial.py
+- [✔️] multiplicationTable.py
+- [✔️] odd1To100.py
+- [✔️] print10To1.py
+- [✔️] print1To10.py
+- [✔️] productOfDigits.py
+- [✔️] sumEvenUpToN.py
+- [✔️] sumNaturalNumbers.py
+- [✔️] sumOddUpToN.py
 
 ### Level 2: Number-based Looping Logic
 - [ ] armstrongNumber.py
