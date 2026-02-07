@@ -9,7 +9,7 @@ This phase introduces the concept of iteration using loops and explores various 
 | Level | Description | Target Completion |
 |-------|-------------|------------------|
 | 1 | Basic Looping (Introductory) | Feb 6, 2026 |
-| 2 | Number-based Looping Logic | Mar 12, 2026 |
+| 2 | Number-based Looping Logic | Feb 7, 2026 |
 | 3 | Mathematical & Logical Patterns | Mar 17, 2026 |
 | 4 | Pattern Printing (Stars & Numbers) | Mar 22, 2026 |
 | 5 | Logical Loop Combinations | Mar 27, 2026 |
@@ -30,16 +30,16 @@ This phase introduces the concept of iteration using loops and explores various 
 - [✔️] sumOddUpToN.py
 
 ### Level 2: Number-based Looping Logic
-- [ ] armstrongNumber.py
-- [ ] countDigits.py
-- [ ] fibonacciSeries.py
-- [ ] isPrime.py
-- [ ] palindromeCheck.py
-- [ ] perfectNumber.py
-- [ ] primes1To100.py
-- [ ] reverseNumber.py
-- [ ] sumFibonacci.py
-- [ ] sumOfDigits.py
+- [✔️] armstrongNumber.py
+- [✔️] countDigits.py
+- [✔️] fibonacciSeries.py
+- [✔️] isPrime.py
+- [✔️] palindromeCheck.py
+- [✔️] perfectNumber.py
+- [✔️] primes1To100.py
+- [✔️] reverseNumber.py
+- [✔️] sumFibonacci.py
+- [✔️] sumOfDigits.py
 
 ### Level 3: Mathematical & Logical Patterns
 - [ ] apSeries.py
